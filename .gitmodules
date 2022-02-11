@@ -1,0 +1,3 @@
+[submodule "template-example"]
+	path = template-example
+	url = https://github.com/stack-spot/template-example
