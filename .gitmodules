@@ -1,3 +1,6 @@
 [submodule "template-example"]
 	path = template-example
 	url = https://github.com/stack-spot/template-example
+[submodule "plugin-example"]
+	path = plugin-example
+	url = https://github.com/stack-spot/plugin-example
